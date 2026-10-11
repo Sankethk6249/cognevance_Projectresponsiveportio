@@ -1,0 +1,25 @@
+/* ==========================================================
+   Portfolio styles
+   Mobile-first. Breakpoints: 700px (tablet), 1000px (desktop)
+   ========================================================== */
+
+:root {
+  --paper: #f2f5f9;
+  --surface: #ffffff;
+  --ink: #12203a;
+  --muted: #55627a;
+  --line: #d5dce7;
+  --teal: #0e7c86;
+  --teal-dark: #0a5f67;
+  --saffron: #f2a93b;
+  --error: #b3261e;
+
+  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+
+  --radius: 10px;
+  --max: 1080px;
+  --header-h: 64px;
+}
+
+*,
